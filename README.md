@@ -1,5 +1,4 @@
-# -
-这是从大学本科至今做过的竞赛以及项目的一个简短介绍
+
 # 3吨无人艇岸端监控软件设计实现
 ![无人艇监控系统视频界面](https://upload-images.jianshu.io/upload_images/5513149-1a9be8ee9ee9c22d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![无人艇监控系统首页](https://upload-images.jianshu.io/upload_images/5513149-a8e954848239ed04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
