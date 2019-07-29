@@ -1,5 +1,5 @@
 # 仿生四足机器人设计与控制
-![仿生四足机器人](https://imgchr.com/i/e8o0AI)
+![仿生四足机器人](https://github.com/hplllrhp/Experience-Show/blob/master/%E5%9B%BE%E7%89%871.png)
 # 3吨无人艇岸端监控软件设计实现
 ![无人艇监控系统视频界面](https://upload-images.jianshu.io/upload_images/5513149-1a9be8ee9ee9c22d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![无人艇监控系统首页](https://upload-images.jianshu.io/upload_images/5513149-a8e954848239ed04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
