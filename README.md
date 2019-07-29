@@ -20,11 +20,12 @@
 [机械臂击打羽毛球视频](https://www.bilibili.com/video/av45533772/)
 ![羽毛球机器人图片](https://upload-images.jianshu.io/upload_images/5513149-b72bfa8a12861175.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # [第十六届全国大学生机器人大赛](https://www.bilibili.com/video/av45538355/)（南方赛区一等奖、全国三等奖）
-![2017年比赛练习照片](https://upload-images.jianshu.io/upload_images/5513149-b88ed2bd3cd84759.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 [2017年对战练习视频](https://www.bilibili.com/video/av45538355/)
+![2017年比赛练习照片](https://upload-images.jianshu.io/upload_images/5513149-b88ed2bd3cd84759.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # [第十五届全国大学生机器人大赛](https://www.bilibili.com/video/av45537941/)（全国一等奖）
-![2016年机器人大赛16进8](https://upload-images.jianshu.io/upload_images/5513149-7ce59a3419b40735.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 [2016年比赛视频](https://www.bilibili.com/video/av45537941/)
+![2016年机器人大赛16进8](https://upload-images.jianshu.io/upload_images/5513149-7ce59a3419b40735.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 
