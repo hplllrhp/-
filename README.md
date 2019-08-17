@@ -1,4 +1,4 @@
-# [仿生四足机器人设计与控制](https://www.bilibili.com/video/av57884266#reply1736723388)(第十四届中国研究生电子设计竞赛：全国一等奖，华中赛区一等奖)
+# [仿生四足机器人设计与控制](https://www.bilibili.com/video/av57884266#reply1736723388)(第十四届中国研究生电子设计竞赛：全国一等奖，最佳论文奖，华中赛区一等奖)
 [仿生四足机器人视频](https://www.bilibili.com/video/av57884266#reply1736723388)
 ![仿生四足机器人](https://github.com/hplllrhp/Experience-Show/blob/master/%E5%9B%BE%E7%89%871.png)
 # 高速智能无人艇岸端监控软件设计实现
