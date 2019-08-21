@@ -2,9 +2,9 @@
 [仿生四足机器人视频](https://www.bilibili.com/video/av57884266#reply1736723388)
 ![仿生四足机器人](https://github.com/hplllrhp/Experience-Show/blob/master/%E5%9B%BE%E7%89%871.png)
 # 高速智能无人艇岸端监控软件设计实现
-![无人艇监控系统视频界面](https://upload-images.jianshu.io/upload_images/5513149-1a9be8ee9ee9c22d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![无人艇监控系统首页](https://upload-images.jianshu.io/upload_images/5513149-a8e954848239ed04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![无人艇监控系统动力/电力页](https://upload-images.jianshu.io/upload_images/5513149-e255911d1ddc8d0b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![无人艇监控系统视频界面](https://upload-images.jianshu.io/upload_images/5513149-1a9be8ee9ee9c22d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
+![无人艇监控系统首页](https://upload-images.jianshu.io/upload_images/5513149-a8e954848239ed04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
+![无人艇监控系统动力/电力页](https://upload-images.jianshu.io/upload_images/5513149-e255911d1ddc8d0b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 # 第十五届全国研究生数学建模竞赛（全国二等奖）
 ![全球恐袭事件分级图](https://upload-images.jianshu.io/upload_images/5513149-4a394137b241077a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![伊斯兰极端分子恐怖袭击事件分布图](https://upload-images.jianshu.io/upload_images/5513149-dd0c2d66e92c71b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
