@@ -1,8 +1,8 @@
 # [仿生四足机器人设计与控制](https://www.bilibili.com/video/av57884266#reply1736723388)(第十四届中国研究生电子设计竞赛：全国一等奖，最佳论文奖，华中赛区一等奖)
 [仿生四足机器人视频](https://www.bilibili.com/video/av57884266#reply1736723388)
-![仿生四足机器人](https://github.com/hplllrhp/Experience-Show/blob/master/%E5%9B%BE%E7%89%871.png)
-![仿生四足机器人](https://github.com/hplllrhp/Experience-Show/blob/master/%E7%86%94%E5%B2%A9%E7%83%88.png)
-![仿生四足机器人](https://github.com/hplllrhp/Experience-Show/blob/master/%E7%86%94%E5%B2%A9%E7%83%881.jpg)
+![仿生四足机器人](https://github.com/hplllrhp/Experience-Show/blob/master/%E7%83%88%E7%84%B0%E7%86%94%E7%8A%AC1.png)
+![仿生四足机器人](https://github.com/hplllrhp/Experience-Show/blob/master/%E7%83%88%E7%84%B0%E7%86%94%E7%8A%AC2.png)
+![仿生四足机器人](https://github.com/hplllrhp/Experience-Show/blob/master/%E7%86%94%E5%B2%A9%E7%83%88%E7%8A%AC3.jpg)
 # 高速智能无人艇岸端监控软件设计实现
 ![无人艇监控系统视频界面](https://upload-images.jianshu.io/upload_images/5513149-1a9be8ee9ee9c22d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 ![无人艇监控系统首页](https://upload-images.jianshu.io/upload_images/5513149-a8e954848239ed04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
